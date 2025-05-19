@@ -1,1 +1,1 @@
-# de_zoomcamp
+# mlops_zoomcamp
